@@ -1,0 +1,12 @@
+{
+  "current_location": "Dallas, TX",
+  "current_lat": 32.7767,
+  "current_lon": -96.7970,
+  "home_base": "San Antonio, TX",
+  "home_lat": 29.4241,
+  "home_lon": -98.4936,
+  "min_rate_per_mile": 2.00,
+  "equipment_types": ["Hotshot", "Gooseneck"],
+  "weight_capacity_lb": 16000,
+  "notes": "Current location stated directly ('I'm in Dallas'). Home base inferred from the dispatcher's question ('based out in San Antonio') which the driver confirms ('yes, that's correct'). Minimum rate stated directly ('above $2 per mile'). Equipment stated directly ('I run a hotshot gooseneck trailer'), interpreted as excluding flatbed and van even though both were raised earlier in the call as related categories. Weight capacity is not stated; 16,000 lb is a typical ceiling for a non-CDL gooseneck hotshot rig, used only as a generous filter threshold, it does not bind any load in this dataset."
+}

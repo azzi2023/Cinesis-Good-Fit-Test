@@ -1,0 +1,9 @@
+load_id,origin,origin_lat,origin_lon,destination,dest_lat,dest_lon,trailer,weight,price
+L01,Fort Worth,32.7555,-97.3308,Oklahoma City,35.4676,-97.5164,Van,42000,620
+L02,Houston,29.7604,-95.3698,Laredo,27.5306,-99.4803,Hotshot,11500,1600
+L03,Austin,30.2672,-97.7431,Corpus Christi,27.8006,-97.3964,Gooseneck,14200,1500
+L04,Plano,33.0198,-96.6989,Memphis,35.1495,-90.0490,Van,38000,1500
+L05,Waco,31.5493,-97.1467,San Antonio,29.4241,-98.4936,Flatbed,9800,640
+L06,Shreveport,32.5252,-93.7502,Atlanta,33.7490,-84.3880,Van,46500,MISSING
+L07,Tulsa,36.1540,-95.9928,MISSING,MISSING,MISSING,Hotshot,13400,1100
+L08,Dallas,32.7767,-96.7970,McAllen,26.2034,-98.2300,Hotshot,12600,1700
