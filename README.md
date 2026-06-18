@@ -6,4 +6,4 @@
 
 **Rejected high-rate load:** L05 (Waco to San Antonio, Flatbed, $640) produces a strong 2.514 $/mile, high enough to outrank L02 on rate alone. It is excluded because the driver runs hotshot/gooseneck only, not flatbed. Ranking on rate before filtering on equipment would have put a non-matching trailer type in the top 3.
 
-**Code:** [paste your GitHub repo link here]
+
